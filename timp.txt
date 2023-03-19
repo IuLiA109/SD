@@ -1,0 +1,56 @@
+N=1000 MAX=1000000
+radix sort:206601 micros
+merge sort:18303 micros
+shell sort:2315 micros
+heap sort:31906micros
+python sort:8 micros
+count sort:309713 micros
+
+N=10000 MAX=100
+radix sort:149991 micros
+merge sort:294167 micros
+shell sort:53876 micros
+heap sort:453625micros
+python sort:90 micros
+count sort:13311 micros
+
+N=1000000 MAX=10000
+radix sort:3524240 micros
+merge sort:53064467 micros
+shell sort:14697328 micros
+heap sort:88919729micros
+python sort:42675 micros
+count sort:1328611 micros
+
+N=1000 MAX=100
+radix sort:85641 micros
+merge sort:15207 micros
+shell sort:1938 micros
+heap sort:24946micros
+python sort:6 micros
+count sort:698 micros
+
+N=10000 MAX=10000
+radix sort:98853 micros
+merge sort:280767 micros
+shell sort:29662 micros
+heap sort:357394micros
+python sort:75 micros
+count sort:11165 micros
+
+N=1000 MAX=1000
+radix sort:105191 micros
+merge sort:14799 micros
+shell sort:1900 micros
+heap sort:25731micros
+python sort:6 micros
+count sort:875 micros
+
+N=1000000 MAX=1000000
+radix sort:3485181 micros
+merge sort:30659328 micros
+shell sort:10261876 micros
+heap sort:98712595micros
+python sort:64573 micros
+count sort:2556921 micros
+
